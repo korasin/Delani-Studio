@@ -1,5 +1,5 @@
 .header{
-    background-image: url("../js/images/h_img.jpg");
+    background-image: url("./images/h_img.jpg");
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,7 +16,7 @@
     line-height: 50px;
 }
 .services{
-    background-image: url("../js/images/s_image.jpg");
+    background-image: url("./images/s_image.jpg");
     background-repeat: no-repeat;
     text-align: center;
     color: white;
@@ -58,7 +58,7 @@
 }
 .contact_us{
     text-align: center;
-    background-image: url("../js/images/c_image.jpg");
+    background-image: url("../images/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50px;
