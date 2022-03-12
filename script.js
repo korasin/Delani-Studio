@@ -1,6 +1,6 @@
-// $(document).ready(function(){
-//     ("icon#design-icon").click(function(){
-
-//     })
-// })
+$(document).ready(function(){
+    ('p#sub').click(function(){
+    console.log();
+    });
+});
 

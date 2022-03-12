@@ -25,7 +25,7 @@
     padding-top: 150px;
     background-size: cover;
 }
-.what-we-do{
+/* .what-we-do{
     padding-top: 60px;
     padding-right: 250px;
     padding-bottom: 60px;
@@ -49,11 +49,23 @@
 }
 .design-text{
     display: none;
+    text-align: center;
 }
 .develop-text{
     display: none;
+    text-align: center;
 }
 .product-text{
+    display: none;
+    text-align: center; */
+/* } */
+.show1{
+    display: none;
+}
+.show2{
+    display: none; 
+}
+.show3{
     display: none;
 }
 .contact_us{
@@ -75,9 +87,22 @@
 }
 .icons{
     text-align: center;
+    justify-content: space-between;
 }
 .footer{
     text-align: center;
+}
+#design{
+    text-align: center;
+}
+#develop{
+    text-align: center;
+}
+#manage{
+    text-align: center;
+}
+@media screen and (max-width: 600px){
+ 
 }
 
 
