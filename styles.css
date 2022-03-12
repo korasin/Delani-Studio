@@ -56,5 +56,18 @@
 .product-text{
     display: none;
 }
+.contact_us{
+    text-align: center;
+    background-image: url("images/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    margin-top: 5%;
+}
+#name-form{
+    background-color: transparent;
+}
 
 
