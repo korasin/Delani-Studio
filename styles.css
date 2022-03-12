@@ -58,7 +58,7 @@
 }
 .contact_us{
     text-align: center;
-    background-image: url("../images/c_image.jpg");
+    background-image: url("./images/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50px;
