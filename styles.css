@@ -6,6 +6,7 @@
     padding-top: 350px;
     padding-bottom: 50px;
     color: white;
+    text-decoration: solid;
 }
 .mouse{
     margin-top: 230px;
@@ -25,5 +26,8 @@
     background-size: cover;
 }
 .what-we-do{
-    
+    padding-top: 60px;
+    padding-right: 250px;
+    padding-bottom: 60px;
+    padding-left: 250px;
 }
