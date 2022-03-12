@@ -1,0 +1,12 @@
+.header{
+    background-image: url("../js/images/h_img.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 350px;
+    padding-bottom: 50px;
+    color: white;
+}
+.mouse{
+    margin-top: 230px;
+}
