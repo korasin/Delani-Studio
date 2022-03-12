@@ -31,3 +31,30 @@
     padding-bottom: 60px;
     padding-left: 250px;
 }
+.what-icons{
+    display: flex;
+    justify-content: space-between;
+}
+.what-we-do h1{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.design
+.develop
+.product{
+    width: 30%;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.design-text{
+    display: none;
+}
+.develop-text{
+    display: none;
+}
+.product-text{
+    display: none;
+}
+
+
